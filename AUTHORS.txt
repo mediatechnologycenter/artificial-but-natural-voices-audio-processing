@@ -1,2 +1,2 @@
-Alberto Pennino: alberto.pennino@inf.ethz.ch
-
+Alberto Pennino: alberto.pennino@inf.ethz.ch - Implementation and Research
+Majed El Helou: majed.elhelou@inf.ethz.ch - Supervision
